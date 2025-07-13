@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Software Engineer | Laravel • Flutter • React • Python • AI/ML</h3>
 
 <p align="center">
-  <a href="mailto:nushkyy@gmail.com"><img src="https://img.shields.io/badge/email-nushkyy@gmail.com-blue?style=flat&logo=gmail"></a>
+  <a href="mailto:nushky.dev@gmail.com"><img src="https://img.shields.io/badge/email-nushky.dev@gmail.com-blue?style=flat&logo=gmail"></a>
   <a href="https://linkedin.com/in/nushky" target="_blank"><img src="https://img.shields.io/badge/linkedin-nushky-blue?style=flat&logo=linkedin"></a>
   <img src="https://komarev.com/ghpvc/?username=nnushky&label=Profile%20views&color=blue" alt="profile-views" />
 </p>
