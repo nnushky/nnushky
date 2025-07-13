@@ -63,7 +63,7 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email: [nushkyy@gmail.com](mailto:nushkyy@gmail.com)  
+- 📧 Email: [nushky.dev@gmail.com](mailto:nushky.dev@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/nushky](https://linkedin.com/in/nushky)  
 
 ---
